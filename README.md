@@ -1,0 +1,1 @@
+# AdiscopeAdEvent-SwiftPackageManager
